@@ -1,9 +1,9 @@
 # Thema: Projeto template
-# Desenvolvedor: Igor Fernandes Barreto
+# Desenvolvedor: Igor Fernandes Barreto (@igfernandes)
 
 O projeto foi construído para atender as necessidades comerciais da Internit
 
-# Projeto: Landing Page Osasco - Ekko Group
+# Projeto: Landing Page Osasco - Ekko Group (@NathanDelVal)
 # Desenvolvedor: Nathan da Silva Madeira
 Landing Page customizada usando o template da empresa para atender o layout desenhado pelo cliente.
 Desenvolvimento do front-end a partir do template para atender layout escolhido pelo cliente
