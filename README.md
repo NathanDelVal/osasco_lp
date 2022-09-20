@@ -1,14 +1,11 @@
-# Landing Page Osasco - Ekko Group
-Landing Page customizada usando o template da empresa para atender o layout desenhado pelo cliente.
-
 # Thema: Projeto template
 # Desenvolvedor: Igor Fernandes Barreto
 
 O projeto foi construído para atender as necessidades comerciais da Internit
 
-# Projeto: Teaser Enredo
+# Projeto: Landing Page Osasco - Ekko Group
 # Desenvolvedor: Nathan da Silva Madeira
-
+Landing Page customizada usando o template da empresa para atender o layout desenhado pelo cliente.
 Desenvolvimento do front-end a partir do template para atender layout escolhido pelo cliente
 
 
