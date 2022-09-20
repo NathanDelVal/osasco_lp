@@ -1,4 +1,4 @@
-# osasco_lp
+# Landing Page Osasco - Ekko Group
 Landing Page customizada usando o template da empresa para atender o layout desenhado pelo cliente.
 
 # Thema: Projeto template
